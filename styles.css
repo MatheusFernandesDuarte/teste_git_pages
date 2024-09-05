@@ -1,0 +1,16 @@
+header {
+    margin-bottom: 20px;
+}
+.card {
+    background-color: #343a40;
+    border: none;
+}
+.card-title {
+    color: #ffc107;
+}
+.card-text {
+    color: #ffffff;
+}
+footer {
+    margin-top: 20px;
+}
