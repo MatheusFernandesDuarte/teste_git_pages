@@ -19,7 +19,6 @@ function renderizarPersonagens() {
         const card = `
             <div class="col-md-4 mb-4">
                 <div class="card">
-                    <img src="${personagem.imagem}" class="card-img-top" alt="${personagem.nome}">
                     <div class="card-body">
                         <h5 class="card-title">${personagem.nome}</h5>
                         <p class="card-text">${personagem.descricao}</p>
